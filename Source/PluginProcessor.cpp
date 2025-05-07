@@ -185,9 +185,9 @@ void LModelAudioProcessor::processBlock(juce::AudioBuffer<float>& buffer, juce::
 
 	starty = toexp(starty, 3.0);
 	endy = toexp(endy, 3.0);
-	sina = toexp(sina, 5.0) * 0.1;
+	sina = toexp(sina, 5.0) * 0.3;
 	sinfreq = toexp(sinfreq, 5.0) * 100.0;
-	sindt = toexp(sindt, 5.0) * 0.01;
+	sindt = -toexp(sindt, 4.0) * 0.1;
 
 	mapfunc.SetStartEnd(starty, endy);
 	mapfunc.SetSinParam(sina, sinfreq, sindt);

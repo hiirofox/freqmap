@@ -2412,6 +2412,7 @@
     <ClInclude Include="..\..\Source\dsp\fft.h"/>
     <ClInclude Include="..\..\Source\dsp\resynth.h"/>
     <ClInclude Include="..\..\Source\dsp\mapfunc.h"/>
+    <ClInclude Include="..\..\Source\ui\displaymap.h"/>
     <ClInclude Include="..\..\Source\ui\LM_slider.h"/>
     <ClInclude Include="..\..\Source\PluginProcessor.h"/>
     <ClInclude Include="..\..\Source\PluginEditor.h"/>

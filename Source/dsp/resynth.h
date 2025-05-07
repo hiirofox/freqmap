@@ -206,7 +206,7 @@ class Resynth
 {
 
 private:
-	constexpr static int FFTSize = 2048;
+	constexpr static int FFTSize = 1024;
 	int windowSize = FFTSize;
 	int hopSize = FFTSize / 8;
 

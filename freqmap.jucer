@@ -11,6 +11,7 @@
         <FILE id="HEKVlA" name="mapfunc.h" compile="0" resource="0" file="Source/dsp/mapfunc.h"/>
       </GROUP>
       <GROUP id="{80EB8462-5FD0-DCD0-8D09-5DE628C6AF90}" name="ui">
+        <FILE id="ubR6sy" name="displaymap.h" compile="0" resource="0" file="Source/ui/displaymap.h"/>
         <FILE id="iIj3Ou" name="LM_slider.cpp" compile="1" resource="0" file="Source/ui/LM_slider.cpp"/>
         <FILE id="g0DmK9" name="LM_slider.h" compile="0" resource="0" file="Source/ui/LM_slider.h"/>
       </GROUP>

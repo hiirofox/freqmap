@@ -3054,6 +3054,9 @@
     <ClInclude Include="..\..\Source\dsp\mapfunc.h">
       <Filter>freqmap\Source\dsp</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\ui\displaymap.h">
+      <Filter>freqmap\Source\ui</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\ui\LM_slider.h">
       <Filter>freqmap\Source\ui</Filter>
     </ClInclude>

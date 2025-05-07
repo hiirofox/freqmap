@@ -61,7 +61,10 @@ public:
 	{
 		return Params;
 	}
-
+	MapFunc* GetMapFunc()
+	{
+		return &mapfunc;
+	}
 private:
 	//Synth Param
 	static juce::AudioProcessorValueTreeState::ParameterLayout createParameterLayout();
